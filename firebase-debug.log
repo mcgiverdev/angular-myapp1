@@ -1,0 +1,29 @@
+[debug] [2022-10-17T16:38:37.267Z] ----------------------------------------------------------------------
+[debug] [2022-10-17T16:38:37.269Z] Command:       C:\Users\GENESY~1\DOWNLO~1\firebase-tools-instant-win.exe C:\Users\GENESYS01\.cache\firebase\tools\lib\node_modules\firebase-tools\lib\bin\firebase init
+[debug] [2022-10-17T16:38:37.270Z] CLI Version:   11.14.4
+[debug] [2022-10-17T16:38:37.270Z] Platform:      win32
+[debug] [2022-10-17T16:38:37.270Z] Node Version:  v16.16.0
+[debug] [2022-10-17T16:38:37.273Z] Time:          Mon Oct 17 2022 11:38:37 GMT-0500 (GMT-05:00)
+[debug] [2022-10-17T16:38:37.273Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-10-17T16:38:37.289Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-10-17T16:38:37.289Z] > authorizing via signed-in user (genesysliteperu22@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Proyectos\AngularDev\my-app-1
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project. 
